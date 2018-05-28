@@ -1,1 +1,2 @@
-# 2018
+# jPrime 2018: Crypto exchange challenge
+
